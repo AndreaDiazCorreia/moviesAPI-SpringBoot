@@ -1,4 +1,4 @@
-package com.andreadiazcorreia.movies.entities;
+package com.andreadiazcorreia.movies.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
